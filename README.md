@@ -22,6 +22,80 @@ The dataset includes 10 types of fruits:
 
 Each fruit is represented in both raw and ripe states.
 
+## Database Structure
+
+The dataset is organized into training and test sets, each with three classification perspectives (Model 1, Model 2, Model 3):
+
+```
+geufruits5_train/
+  ├── Model 1/
+  │   ├── Apple/
+  │   │   ├── Raw/
+  │   │   └── Ripe/
+  │   ├── Banana/
+  │   │   ├── Raw/
+  │   │   └── Ripe/
+  │   └── ... (other fruits)
+  ├── Model 2/
+  │   ├── Raw/
+  │   └── Ripe/
+  └── Model 3/
+      ├── Apple_Raw/
+      ├── Apple_Ripe/
+      ├── Banana_Raw/
+      ├── Banana_Ripe/
+      └── ... (other fruit-state combinations)
+```
+The same structure applies to `geufruits5_test/`.
+
+- **Model 1:** Each fruit has its own folder, with subfolders for "Raw" and "Ripe" images.
+- **Model 2:** All "Raw" images and all "Ripe" images are grouped together, regardless of fruit type.
+- **Model 3:** Each combination of fruit and maturity state (e.g., Apple_Raw, Banana_Ripe) has its own folder.
+
+## JSON Annotation Format
+
+For each image, a JSON annotation file with the same name as the image is provided in the same directory. The annotation format is as follows:
+
+```json
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": "10-digit unique id",
+      "width": null,
+      "height": null,
+      "file_name": "image_name.jpg",
+      "size": null,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": "10-digit unique id (same for the same category across all files)",
+      "name": "Fruit_Ripeness (e.g., Apple_Ripe)",
+      "supercategory": "Fruit (e.g., Apple)"
+    }
+  ]
+}
+```
+- The `id` fields are 10-digit strings. For categories, the last 3 digits are derived from the timestamp at generation time, and the first 7 digits are a unique index for each category (with leading zeros).
+- The `categories` field describes the fruit and its maturity state.
+- The `annotations` field is empty, as there are no bounding boxes or segmentation labels in this dataset.
+
 ## Applications
 
 This dataset can be used to solve three types of classification problems:

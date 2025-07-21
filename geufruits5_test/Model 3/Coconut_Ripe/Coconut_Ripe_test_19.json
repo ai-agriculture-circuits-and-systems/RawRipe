@@ -1,0 +1,34 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3307103649,
+      "width": null,
+      "height": null,
+      "file_name": "Coconut_Ripe_test_19.jpg",
+      "size": null,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": "0000005644",
+      "name": "Coconut_Ripe",
+      "supercategory": "Coconut"
+    }
+  ]
+}
