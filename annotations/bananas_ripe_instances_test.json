@@ -1,0 +1,571 @@
+{
+  "info": {
+    "description": "RawRipe bananas ripe test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_103.jpg",
+      "width": 221,
+      "height": 228
+    },
+    {
+      "id": 2,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_107.jpg",
+      "width": 262,
+      "height": 192
+    },
+    {
+      "id": 3,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_11.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 4,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_111.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 5,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_115.jpg",
+      "width": 239,
+      "height": 211
+    },
+    {
+      "id": 6,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_15.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 7,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_19.jpg",
+      "width": 242,
+      "height": 208
+    },
+    {
+      "id": 8,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_23.jpg",
+      "width": 169,
+      "height": 299
+    },
+    {
+      "id": 9,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_27.jpg",
+      "width": 179,
+      "height": 281
+    },
+    {
+      "id": 10,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_3.jpg",
+      "width": 218,
+      "height": 231
+    },
+    {
+      "id": 11,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_31.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 12,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_35.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 13,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_39.jpg",
+      "width": 300,
+      "height": 168
+    },
+    {
+      "id": 14,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_43.jpg",
+      "width": 260,
+      "height": 194
+    },
+    {
+      "id": 15,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_47.jpg",
+      "width": 265,
+      "height": 190
+    },
+    {
+      "id": 16,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_51.jpg",
+      "width": 183,
+      "height": 275
+    },
+    {
+      "id": 17,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_55.jpg",
+      "width": 308,
+      "height": 164
+    },
+    {
+      "id": 18,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_59.jpg",
+      "width": 327,
+      "height": 154
+    },
+    {
+      "id": 19,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_63.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 20,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_67.jpg",
+      "width": 300,
+      "height": 168
+    },
+    {
+      "id": 21,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_7.jpg",
+      "width": 266,
+      "height": 189
+    },
+    {
+      "id": 22,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_71.jpg",
+      "width": 264,
+      "height": 191
+    },
+    {
+      "id": 23,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_75.jpg",
+      "width": 261,
+      "height": 193
+    },
+    {
+      "id": 24,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_79.jpg",
+      "width": 218,
+      "height": 231
+    },
+    {
+      "id": 25,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_83.jpg",
+      "width": 262,
+      "height": 192
+    },
+    {
+      "id": 26,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_87.jpg",
+      "width": 188,
+      "height": 269
+    },
+    {
+      "id": 27,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_91.jpg",
+      "width": 261,
+      "height": 193
+    },
+    {
+      "id": 28,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_95.jpg",
+      "width": 276,
+      "height": 183
+    },
+    {
+      "id": 29,
+      "file_name": "bananas/ripe/images/Banana_Ripe_test_99.jpg",
+      "width": 225,
+      "height": 225
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        221.0,
+        228.0
+      ],
+      "area": 50388.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        262.0,
+        192.0
+      ],
+      "area": 50304.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        239.0,
+        211.0
+      ],
+      "area": 50429.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        242.0,
+        208.0
+      ],
+      "area": 50336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        169.0,
+        299.0
+      ],
+      "area": 50531.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        179.0,
+        281.0
+      ],
+      "area": 50299.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        218.0,
+        231.0
+      ],
+      "area": 50358.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        300.0,
+        168.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        260.0,
+        194.0
+      ],
+      "area": 50440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        265.0,
+        190.0
+      ],
+      "area": 50350.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        183.0,
+        275.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        308.0,
+        164.0
+      ],
+      "area": 50512.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        327.0,
+        154.0
+      ],
+      "area": 50358.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        300.0,
+        168.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        266.0,
+        189.0
+      ],
+      "area": 50274.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        264.0,
+        191.0
+      ],
+      "area": 50424.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        261.0,
+        193.0
+      ],
+      "area": 50373.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        218.0,
+        231.0
+      ],
+      "area": 50358.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        262.0,
+        192.0
+      ],
+      "area": 50304.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        188.0,
+        269.0
+      ],
+      "area": 50572.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        261.0,
+        193.0
+      ],
+      "area": 50373.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        276.0,
+        183.0
+      ],
+      "area": 50508.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "bananas"
+    }
+  ],
+  "licenses": []
+}

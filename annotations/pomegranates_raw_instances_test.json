@@ -1,0 +1,400 @@
+{
+  "info": {
+    "description": "RawRipe pomegranates raw test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_11.jpg",
+      "width": 1280,
+      "height": 931
+    },
+    {
+      "id": 2,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_15.jpg",
+      "width": 274,
+      "height": 184
+    },
+    {
+      "id": 3,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_19.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 4,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_23.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 5,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_27.jpg",
+      "width": 181,
+      "height": 278
+    },
+    {
+      "id": 6,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_3.jpg",
+      "width": 852,
+      "height": 480
+    },
+    {
+      "id": 7,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_31.jpg",
+      "width": 300,
+      "height": 168
+    },
+    {
+      "id": 8,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_35.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 9,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_39.jpg",
+      "width": 247,
+      "height": 204
+    },
+    {
+      "id": 10,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_43.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 11,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_47.jpg",
+      "width": 1023,
+      "height": 682
+    },
+    {
+      "id": 12,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_51.jpg",
+      "width": 263,
+      "height": 192
+    },
+    {
+      "id": 13,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_55.jpg",
+      "width": 309,
+      "height": 163
+    },
+    {
+      "id": 14,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_59.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 15,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_63.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 16,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_67.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 17,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_7.jpg",
+      "width": 800,
+      "height": 581
+    },
+    {
+      "id": 18,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_71.jpg",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "id": 19,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_75.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 20,
+      "file_name": "pomegranates/raw/images/Pomengranate_Raw_test_79.jpg",
+      "width": 300,
+      "height": 168
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1280.0,
+        931.0
+      ],
+      "area": 1191680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        274.0,
+        184.0
+      ],
+      "area": 50416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        181.0,
+        278.0
+      ],
+      "area": 50318.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        852.0,
+        480.0
+      ],
+      "area": 408960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        300.0,
+        168.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        247.0,
+        204.0
+      ],
+      "area": 50388.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1023.0,
+        682.0
+      ],
+      "area": 697686.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        263.0,
+        192.0
+      ],
+      "area": 50496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        309.0,
+        163.0
+      ],
+      "area": 50367.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        800.0,
+        581.0
+      ],
+      "area": 464800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        960.0,
+        720.0
+      ],
+      "area": 691200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        300.0,
+        168.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "pomegranates"
+    }
+  ],
+  "licenses": []
+}

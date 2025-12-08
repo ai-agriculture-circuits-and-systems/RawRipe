@@ -1,0 +1,723 @@
+{
+  "info": {
+    "description": "RawRipe litchis raw train split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_10.jpg",
+      "width": 512,
+      "height": 341
+    },
+    {
+      "id": 2,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_12.jpg",
+      "width": 178,
+      "height": 215
+    },
+    {
+      "id": 3,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_13.jpg",
+      "width": 222,
+      "height": 277
+    },
+    {
+      "id": 4,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_14.jpg",
+      "width": 217,
+      "height": 213
+    },
+    {
+      "id": 5,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_16.jpg",
+      "width": 305,
+      "height": 402
+    },
+    {
+      "id": 6,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_17.jpg",
+      "width": 308,
+      "height": 340
+    },
+    {
+      "id": 7,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_18.jpg",
+      "width": 485,
+      "height": 367
+    },
+    {
+      "id": 8,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_20.jpg",
+      "width": 464,
+      "height": 325
+    },
+    {
+      "id": 9,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_21.jpg",
+      "width": 154,
+      "height": 203
+    },
+    {
+      "id": 10,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_22.jpg",
+      "width": 291,
+      "height": 308
+    },
+    {
+      "id": 11,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_24.jpg",
+      "width": 109,
+      "height": 149
+    },
+    {
+      "id": 12,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_25.jpg",
+      "width": 209,
+      "height": 164
+    },
+    {
+      "id": 13,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_26.jpg",
+      "width": 380,
+      "height": 362
+    },
+    {
+      "id": 14,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_28.jpg",
+      "width": 137,
+      "height": 188
+    },
+    {
+      "id": 15,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_29.jpg",
+      "width": 384,
+      "height": 380
+    },
+    {
+      "id": 16,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_30.jpg",
+      "width": 584,
+      "height": 410
+    },
+    {
+      "id": 17,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_32.jpg",
+      "width": 169,
+      "height": 162
+    },
+    {
+      "id": 18,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_33.jpg",
+      "width": 177,
+      "height": 112
+    },
+    {
+      "id": 19,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_34.jpg",
+      "width": 307,
+      "height": 208
+    },
+    {
+      "id": 20,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_36.jpg",
+      "width": 155,
+      "height": 220
+    },
+    {
+      "id": 21,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_37.jpg",
+      "width": 276,
+      "height": 305
+    },
+    {
+      "id": 22,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_38.jpg",
+      "width": 470,
+      "height": 316
+    },
+    {
+      "id": 23,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_4.jpg",
+      "width": 479,
+      "height": 365
+    },
+    {
+      "id": 24,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_40.jpg",
+      "width": 289,
+      "height": 210
+    },
+    {
+      "id": 25,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_41.jpg",
+      "width": 138,
+      "height": 165
+    },
+    {
+      "id": 26,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_42.jpg",
+      "width": 187,
+      "height": 154
+    },
+    {
+      "id": 27,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_44.jpg",
+      "width": 333,
+      "height": 354
+    },
+    {
+      "id": 28,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_45.jpg",
+      "width": 235,
+      "height": 298
+    },
+    {
+      "id": 29,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_46.jpg",
+      "width": 433,
+      "height": 287
+    },
+    {
+      "id": 30,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_48.jpg",
+      "width": 145,
+      "height": 176
+    },
+    {
+      "id": 31,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_49.jpg",
+      "width": 309,
+      "height": 202
+    },
+    {
+      "id": 32,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_5.jpg",
+      "width": 510,
+      "height": 372
+    },
+    {
+      "id": 33,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_50.jpg",
+      "width": 154,
+      "height": 125
+    },
+    {
+      "id": 34,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_52.jpg",
+      "width": 204,
+      "height": 259
+    },
+    {
+      "id": 35,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_6.jpg",
+      "width": 263,
+      "height": 343
+    },
+    {
+      "id": 36,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_8.jpg",
+      "width": 216,
+      "height": 342
+    },
+    {
+      "id": 37,
+      "file_name": "litchis/raw/images/Leeche_Raw_train_9.jpg",
+      "width": 445,
+      "height": 372
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        341.0
+      ],
+      "area": 174592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        178.0,
+        215.0
+      ],
+      "area": 38270.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        222.0,
+        277.0
+      ],
+      "area": 61494.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        217.0,
+        213.0
+      ],
+      "area": 46221.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        305.0,
+        402.0
+      ],
+      "area": 122610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        308.0,
+        340.0
+      ],
+      "area": 104720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        485.0,
+        367.0
+      ],
+      "area": 177995.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        464.0,
+        325.0
+      ],
+      "area": 150800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        154.0,
+        203.0
+      ],
+      "area": 31262.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        291.0,
+        308.0
+      ],
+      "area": 89628.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        109.0,
+        149.0
+      ],
+      "area": 16241.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        209.0,
+        164.0
+      ],
+      "area": 34276.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        380.0,
+        362.0
+      ],
+      "area": 137560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        137.0,
+        188.0
+      ],
+      "area": 25756.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        384.0,
+        380.0
+      ],
+      "area": 145920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        584.0,
+        410.0
+      ],
+      "area": 239440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        169.0,
+        162.0
+      ],
+      "area": 27378.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        177.0,
+        112.0
+      ],
+      "area": 19824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        307.0,
+        208.0
+      ],
+      "area": 63856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        155.0,
+        220.0
+      ],
+      "area": 34100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        276.0,
+        305.0
+      ],
+      "area": 84180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        470.0,
+        316.0
+      ],
+      "area": 148520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        479.0,
+        365.0
+      ],
+      "area": 174835.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        289.0,
+        210.0
+      ],
+      "area": 60690.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        138.0,
+        165.0
+      ],
+      "area": 22770.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        187.0,
+        154.0
+      ],
+      "area": 28798.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        333.0,
+        354.0
+      ],
+      "area": 117882.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        235.0,
+        298.0
+      ],
+      "area": 70030.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        433.0,
+        287.0
+      ],
+      "area": 124271.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        145.0,
+        176.0
+      ],
+      "area": 25520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        309.0,
+        202.0
+      ],
+      "area": 62418.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        510.0,
+        372.0
+      ],
+      "area": 189720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        154.0,
+        125.0
+      ],
+      "area": 19250.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        204.0,
+        259.0
+      ],
+      "area": 52836.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        263.0,
+        343.0
+      ],
+      "area": 90209.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        216.0,
+        342.0
+      ],
+      "area": 73872.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 37,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        445.0,
+        372.0
+      ],
+      "area": 165540.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "litchis"
+    }
+  ],
+  "licenses": []
+}

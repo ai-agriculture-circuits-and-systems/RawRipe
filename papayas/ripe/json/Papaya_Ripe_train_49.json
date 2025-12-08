@@ -1,0 +1,40 @@
+{
+  "info": {
+    "description": "RawRipe papayas ripe classification dataset",
+    "version": "1.0.0",
+    "year": 2021,
+    "contributor": "Rao Jerripothula, Koteswar and Kumar Shukla, Sarvesh and Jain, Samyak and Singh, Shudhanshu",
+    "url": "https://ieeexplore.ieee.org/document/9589215"
+  },
+  "images": [
+    {
+      "id": 1,
+      "width": 220,
+      "height": 229,
+      "file_name": "Papaya_Ripe_train_49.jpg",
+      "license": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        220,
+        229
+      ],
+      "area": 50380,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "papayas"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "info": {
+    "description": "RawRipe guavas ripe test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_11.jpg",
+      "width": 335,
+      "height": 278
+    },
+    {
+      "id": 2,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_15.jpg",
+      "width": 441,
+      "height": 305
+    },
+    {
+      "id": 3,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_19.jpg",
+      "width": 532,
+      "height": 404
+    },
+    {
+      "id": 4,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_23.jpg",
+      "width": 190,
+      "height": 184
+    },
+    {
+      "id": 5,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_27.jpg",
+      "width": 303,
+      "height": 383
+    },
+    {
+      "id": 6,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_3.jpg",
+      "width": 244,
+      "height": 220
+    },
+    {
+      "id": 7,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_31.jpg",
+      "width": 515,
+      "height": 365
+    },
+    {
+      "id": 8,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_35.jpg",
+      "width": 240,
+      "height": 350
+    },
+    {
+      "id": 9,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_39.jpg",
+      "width": 247,
+      "height": 184
+    },
+    {
+      "id": 10,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_43.jpg",
+      "width": 412,
+      "height": 337
+    },
+    {
+      "id": 11,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_47.jpg",
+      "width": 653,
+      "height": 355
+    },
+    {
+      "id": 12,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_51.jpg",
+      "width": 513,
+      "height": 402
+    },
+    {
+      "id": 13,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_55.jpg",
+      "width": 640,
+      "height": 340
+    },
+    {
+      "id": 14,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_59.jpg",
+      "width": 241,
+      "height": 273
+    },
+    {
+      "id": 15,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_63.jpg",
+      "width": 472,
+      "height": 303
+    },
+    {
+      "id": 16,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_67.jpg",
+      "width": 280,
+      "height": 257
+    },
+    {
+      "id": 17,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_7.jpg",
+      "width": 473,
+      "height": 392
+    },
+    {
+      "id": 18,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_71.jpg",
+      "width": 432,
+      "height": 361
+    },
+    {
+      "id": 19,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_75.jpg",
+      "width": 603,
+      "height": 358
+    },
+    {
+      "id": 20,
+      "file_name": "guavas/ripe/images/Guava_Ripe_test_79.jpg",
+      "width": 360,
+      "height": 290
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        335.0,
+        278.0
+      ],
+      "area": 93130.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        441.0,
+        305.0
+      ],
+      "area": 134505.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        532.0,
+        404.0
+      ],
+      "area": 214928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        190.0,
+        184.0
+      ],
+      "area": 34960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        303.0,
+        383.0
+      ],
+      "area": 116049.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        244.0,
+        220.0
+      ],
+      "area": 53680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        515.0,
+        365.0
+      ],
+      "area": 187975.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        240.0,
+        350.0
+      ],
+      "area": 84000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        247.0,
+        184.0
+      ],
+      "area": 45448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        412.0,
+        337.0
+      ],
+      "area": 138844.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        653.0,
+        355.0
+      ],
+      "area": 231815.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        513.0,
+        402.0
+      ],
+      "area": 206226.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        640.0,
+        340.0
+      ],
+      "area": 217600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        241.0,
+        273.0
+      ],
+      "area": 65793.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        472.0,
+        303.0
+      ],
+      "area": 143016.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        280.0,
+        257.0
+      ],
+      "area": 71960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        473.0,
+        392.0
+      ],
+      "area": 185416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        432.0,
+        361.0
+      ],
+      "area": 155952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        603.0,
+        358.0
+      ],
+      "area": 215874.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        360.0,
+        290.0
+      ],
+      "area": 104400.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "guavas"
+    }
+  ],
+  "licenses": []
+}

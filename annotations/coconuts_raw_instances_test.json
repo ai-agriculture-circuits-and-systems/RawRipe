@@ -1,0 +1,362 @@
+{
+  "info": {
+    "description": "RawRipe coconuts raw test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_11.jpg",
+      "width": 472,
+      "height": 406
+    },
+    {
+      "id": 2,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_15.jpg",
+      "width": 588,
+      "height": 389
+    },
+    {
+      "id": 3,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_19.jpg",
+      "width": 359,
+      "height": 185
+    },
+    {
+      "id": 4,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_23.jpg",
+      "width": 331,
+      "height": 245
+    },
+    {
+      "id": 5,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_27.jpg",
+      "width": 434,
+      "height": 368
+    },
+    {
+      "id": 6,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_3.jpg",
+      "width": 399,
+      "height": 355
+    },
+    {
+      "id": 7,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_31.jpg",
+      "width": 344,
+      "height": 336
+    },
+    {
+      "id": 8,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_35.jpg",
+      "width": 406,
+      "height": 395
+    },
+    {
+      "id": 9,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_39.jpg",
+      "width": 364,
+      "height": 381
+    },
+    {
+      "id": 10,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_43.jpg",
+      "width": 272,
+      "height": 367
+    },
+    {
+      "id": 11,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_47.jpg",
+      "width": 259,
+      "height": 349
+    },
+    {
+      "id": 12,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_51.jpg",
+      "width": 490,
+      "height": 328
+    },
+    {
+      "id": 13,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_55.jpg",
+      "width": 512,
+      "height": 380
+    },
+    {
+      "id": 14,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_59.jpg",
+      "width": 215,
+      "height": 305
+    },
+    {
+      "id": 15,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_63.jpg",
+      "width": 248,
+      "height": 233
+    },
+    {
+      "id": 16,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_67.jpg",
+      "width": 467,
+      "height": 398
+    },
+    {
+      "id": 17,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_7.jpg",
+      "width": 528,
+      "height": 366
+    },
+    {
+      "id": 18,
+      "file_name": "coconuts/raw/images/Coconut_Raw_test_71.jpg",
+      "width": 365,
+      "height": 205
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        472.0,
+        406.0
+      ],
+      "area": 191632.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        588.0,
+        389.0
+      ],
+      "area": 228732.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        359.0,
+        185.0
+      ],
+      "area": 66415.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        331.0,
+        245.0
+      ],
+      "area": 81095.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        434.0,
+        368.0
+      ],
+      "area": 159712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        399.0,
+        355.0
+      ],
+      "area": 141645.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        344.0,
+        336.0
+      ],
+      "area": 115584.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        406.0,
+        395.0
+      ],
+      "area": 160370.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        364.0,
+        381.0
+      ],
+      "area": 138684.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        272.0,
+        367.0
+      ],
+      "area": 99824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        349.0
+      ],
+      "area": 90391.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        490.0,
+        328.0
+      ],
+      "area": 160720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        380.0
+      ],
+      "area": 194560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        215.0,
+        305.0
+      ],
+      "area": 65575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        248.0,
+        233.0
+      ],
+      "area": 57784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        467.0,
+        398.0
+      ],
+      "area": 185866.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        528.0,
+        366.0
+      ],
+      "area": 193248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        365.0,
+        205.0
+      ],
+      "area": 74825.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "coconuts"
+    }
+  ],
+  "licenses": []
+}

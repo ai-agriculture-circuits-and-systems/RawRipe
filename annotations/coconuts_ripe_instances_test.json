@@ -1,0 +1,400 @@
+{
+  "info": {
+    "description": "RawRipe coconuts ripe test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_11.jpg",
+      "width": 217,
+      "height": 232
+    },
+    {
+      "id": 2,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_15.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 3,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_19.jpg",
+      "width": 188,
+      "height": 268
+    },
+    {
+      "id": 4,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_23.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 5,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_27.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 6,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_3.jpg",
+      "width": 330,
+      "height": 198
+    },
+    {
+      "id": 7,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_31.jpg",
+      "width": 119,
+      "height": 231
+    },
+    {
+      "id": 8,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_35.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 9,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_39.jpg",
+      "width": 183,
+      "height": 275
+    },
+    {
+      "id": 10,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_43.jpg",
+      "width": 267,
+      "height": 189
+    },
+    {
+      "id": 11,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_47.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 12,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_51.jpg",
+      "width": 170,
+      "height": 119
+    },
+    {
+      "id": 13,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_55.jpg",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "id": 14,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_59.jpg",
+      "width": 194,
+      "height": 259
+    },
+    {
+      "id": 15,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_63.jpg",
+      "width": 183,
+      "height": 275
+    },
+    {
+      "id": 16,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_67.jpg",
+      "width": 177,
+      "height": 285
+    },
+    {
+      "id": 17,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_7.jpg",
+      "width": 196,
+      "height": 257
+    },
+    {
+      "id": 18,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_71.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 19,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_75.jpg",
+      "width": 194,
+      "height": 186
+    },
+    {
+      "id": 20,
+      "file_name": "coconuts/ripe/images/Coconut_Ripe_test_79.jpg",
+      "width": 280,
+      "height": 180
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        217.0,
+        232.0
+      ],
+      "area": 50344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        188.0,
+        268.0
+      ],
+      "area": 50384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        330.0,
+        198.0
+      ],
+      "area": 65340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        119.0,
+        231.0
+      ],
+      "area": 27489.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        183.0,
+        275.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        267.0,
+        189.0
+      ],
+      "area": 50463.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        170.0,
+        119.0
+      ],
+      "area": 20230.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        960.0,
+        720.0
+      ],
+      "area": 691200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        194.0,
+        259.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        183.0,
+        275.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        177.0,
+        285.0
+      ],
+      "area": 50445.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        196.0,
+        257.0
+      ],
+      "area": 50372.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        194.0,
+        186.0
+      ],
+      "area": 36084.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        280.0,
+        180.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "coconuts"
+    }
+  ],
+  "licenses": []
+}

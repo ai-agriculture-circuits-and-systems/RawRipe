@@ -1,0 +1,40 @@
+{
+  "info": {
+    "description": "RawRipe bananas raw classification dataset",
+    "version": "1.0.0",
+    "year": 2021,
+    "contributor": "Rao Jerripothula, Koteswar and Kumar Shukla, Sarvesh and Jain, Samyak and Singh, Shudhanshu",
+    "url": "https://ieeexplore.ieee.org/document/9589215"
+  },
+  "images": [
+    {
+      "id": 1,
+      "width": 262,
+      "height": 193,
+      "file_name": "Banana_Raw_train_77.jpg",
+      "license": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        262,
+        193
+      ],
+      "area": 50566,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "bananas"
+    }
+  ]
+}

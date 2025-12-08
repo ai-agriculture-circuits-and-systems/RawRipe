@@ -1,0 +1,40 @@
+{
+  "info": {
+    "description": "RawRipe coconuts ripe classification dataset",
+    "version": "1.0.0",
+    "year": 2021,
+    "contributor": "Rao Jerripothula, Koteswar and Kumar Shukla, Sarvesh and Jain, Samyak and Singh, Shudhanshu",
+    "url": "https://ieeexplore.ieee.org/document/9589215"
+  },
+  "images": [
+    {
+      "id": 1,
+      "width": 292,
+      "height": 249,
+      "file_name": "Coconut_Ripe_train_78.jpg",
+      "license": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        292,
+        249
+      ],
+      "area": 72708,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "coconuts"
+    }
+  ]
+}

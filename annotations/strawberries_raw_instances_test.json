@@ -1,0 +1,419 @@
+{
+  "info": {
+    "description": "RawRipe strawberries raw test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_11.jpg",
+      "width": 57,
+      "height": 73
+    },
+    {
+      "id": 2,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_15.jpg",
+      "width": 78,
+      "height": 73
+    },
+    {
+      "id": 3,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_19.jpg",
+      "width": 215,
+      "height": 353
+    },
+    {
+      "id": 4,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_23.jpg",
+      "width": 150,
+      "height": 186
+    },
+    {
+      "id": 5,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_27.jpg",
+      "width": 200,
+      "height": 310
+    },
+    {
+      "id": 6,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_3.jpg",
+      "width": 400,
+      "height": 602
+    },
+    {
+      "id": 7,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_31.jpg",
+      "width": 470,
+      "height": 314
+    },
+    {
+      "id": 8,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_35.jpg",
+      "width": 198,
+      "height": 128
+    },
+    {
+      "id": 9,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_39.jpg",
+      "width": 204,
+      "height": 150
+    },
+    {
+      "id": 10,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_43.jpg",
+      "width": 254,
+      "height": 117
+    },
+    {
+      "id": 11,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_51.jpg",
+      "width": 90,
+      "height": 160
+    },
+    {
+      "id": 12,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_55.jpg",
+      "width": 233,
+      "height": 287
+    },
+    {
+      "id": 13,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_59.jpg",
+      "width": 180,
+      "height": 335
+    },
+    {
+      "id": 14,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_63.jpg",
+      "width": 245,
+      "height": 128
+    },
+    {
+      "id": 15,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_67.jpg",
+      "width": 400,
+      "height": 334
+    },
+    {
+      "id": 16,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_7.jpg",
+      "width": 303,
+      "height": 73
+    },
+    {
+      "id": 17,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_71.jpg",
+      "width": 228,
+      "height": 208
+    },
+    {
+      "id": 18,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_75.jpg",
+      "width": 269,
+      "height": 234
+    },
+    {
+      "id": 19,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_79.jpg",
+      "width": 318,
+      "height": 211
+    },
+    {
+      "id": 20,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_83.jpg",
+      "width": 99,
+      "height": 207
+    },
+    {
+      "id": 21,
+      "file_name": "strawberries/raw/images/Strawberry_Raw_test_87.jpg",
+      "width": 332,
+      "height": 212
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        57.0,
+        73.0
+      ],
+      "area": 4161.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        78.0,
+        73.0
+      ],
+      "area": 5694.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        215.0,
+        353.0
+      ],
+      "area": 75895.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        150.0,
+        186.0
+      ],
+      "area": 27900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        200.0,
+        310.0
+      ],
+      "area": 62000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        400.0,
+        602.0
+      ],
+      "area": 240800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        470.0,
+        314.0
+      ],
+      "area": 147580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        198.0,
+        128.0
+      ],
+      "area": 25344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        204.0,
+        150.0
+      ],
+      "area": 30600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        254.0,
+        117.0
+      ],
+      "area": 29718.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        90.0,
+        160.0
+      ],
+      "area": 14400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        233.0,
+        287.0
+      ],
+      "area": 66871.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        180.0,
+        335.0
+      ],
+      "area": 60300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        245.0,
+        128.0
+      ],
+      "area": 31360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        400.0,
+        334.0
+      ],
+      "area": 133600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        303.0,
+        73.0
+      ],
+      "area": 22119.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        228.0,
+        208.0
+      ],
+      "area": 47424.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        269.0,
+        234.0
+      ],
+      "area": 62946.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        318.0,
+        211.0
+      ],
+      "area": 67098.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        99.0,
+        207.0
+      ],
+      "area": 20493.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        332.0,
+        212.0
+      ],
+      "area": 70384.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "strawberries"
+    }
+  ],
+  "licenses": []
+}

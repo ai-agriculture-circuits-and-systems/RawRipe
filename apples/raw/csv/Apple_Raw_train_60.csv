@@ -1,0 +1,2 @@
+image_path,x_min,y_min,x_max,y_max,class_name
+Apple_Raw_train_60.jpg,0,0,1000,1000,fruit

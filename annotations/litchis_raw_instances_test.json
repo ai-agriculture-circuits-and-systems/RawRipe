@@ -1,0 +1,267 @@
+{
+  "info": {
+    "description": "RawRipe litchis raw test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_11.jpg",
+      "width": 461,
+      "height": 321
+    },
+    {
+      "id": 2,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_15.jpg",
+      "width": 203,
+      "height": 222
+    },
+    {
+      "id": 3,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_19.jpg",
+      "width": 490,
+      "height": 292
+    },
+    {
+      "id": 4,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_23.jpg",
+      "width": 96,
+      "height": 166
+    },
+    {
+      "id": 5,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_27.jpg",
+      "width": 237,
+      "height": 163
+    },
+    {
+      "id": 6,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_3.jpg",
+      "width": 224,
+      "height": 376
+    },
+    {
+      "id": 7,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_31.jpg",
+      "width": 296,
+      "height": 347
+    },
+    {
+      "id": 8,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_35.jpg",
+      "width": 178,
+      "height": 281
+    },
+    {
+      "id": 9,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_39.jpg",
+      "width": 262,
+      "height": 210
+    },
+    {
+      "id": 10,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_43.jpg",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": 11,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_47.jpg",
+      "width": 159,
+      "height": 145
+    },
+    {
+      "id": 12,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_51.jpg",
+      "width": 232,
+      "height": 98
+    },
+    {
+      "id": 13,
+      "file_name": "litchis/raw/images/Leeche_Raw_test_7.jpg",
+      "width": 381,
+      "height": 356
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        461.0,
+        321.0
+      ],
+      "area": 147981.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        203.0,
+        222.0
+      ],
+      "area": 45066.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        490.0,
+        292.0
+      ],
+      "area": 143080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        96.0,
+        166.0
+      ],
+      "area": 15936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        237.0,
+        163.0
+      ],
+      "area": 38631.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        224.0,
+        376.0
+      ],
+      "area": 84224.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        296.0,
+        347.0
+      ],
+      "area": 102712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        178.0,
+        281.0
+      ],
+      "area": 50018.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        262.0,
+        210.0
+      ],
+      "area": 55020.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        160.0,
+        160.0
+      ],
+      "area": 25600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        159.0,
+        145.0
+      ],
+      "area": 23055.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        232.0,
+        98.0
+      ],
+      "area": 22736.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        381.0,
+        356.0
+      ],
+      "area": 135636.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "litchis"
+    }
+  ],
+  "licenses": []
+}

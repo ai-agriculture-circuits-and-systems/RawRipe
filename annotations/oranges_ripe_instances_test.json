@@ -1,0 +1,362 @@
+{
+  "info": {
+    "description": "RawRipe oranges ripe test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_11.jpg",
+      "width": 371,
+      "height": 369
+    },
+    {
+      "id": 2,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_15.jpg",
+      "width": 318,
+      "height": 267
+    },
+    {
+      "id": 3,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_19.jpg",
+      "width": 195,
+      "height": 179
+    },
+    {
+      "id": 4,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_23.jpg",
+      "width": 460,
+      "height": 379
+    },
+    {
+      "id": 5,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_27.jpg",
+      "width": 444,
+      "height": 332
+    },
+    {
+      "id": 6,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_3.jpg",
+      "width": 234,
+      "height": 335
+    },
+    {
+      "id": 7,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_31.jpg",
+      "width": 452,
+      "height": 314
+    },
+    {
+      "id": 8,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_35.jpg",
+      "width": 103,
+      "height": 113
+    },
+    {
+      "id": 9,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_39.jpg",
+      "width": 425,
+      "height": 361
+    },
+    {
+      "id": 10,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_43.jpg",
+      "width": 181,
+      "height": 187
+    },
+    {
+      "id": 11,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_47.jpg",
+      "width": 500,
+      "height": 327
+    },
+    {
+      "id": 12,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_51.jpg",
+      "width": 583,
+      "height": 392
+    },
+    {
+      "id": 13,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_55.jpg",
+      "width": 398,
+      "height": 224
+    },
+    {
+      "id": 14,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_59.jpg",
+      "width": 237,
+      "height": 212
+    },
+    {
+      "id": 15,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_63.jpg",
+      "width": 190,
+      "height": 181
+    },
+    {
+      "id": 16,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_67.jpg",
+      "width": 656,
+      "height": 422
+    },
+    {
+      "id": 17,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_7.jpg",
+      "width": 209,
+      "height": 202
+    },
+    {
+      "id": 18,
+      "file_name": "oranges/ripe/images/Orange_Ripe_test_71.jpg",
+      "width": 222,
+      "height": 193
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        371.0,
+        369.0
+      ],
+      "area": 136899.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        318.0,
+        267.0
+      ],
+      "area": 84906.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        195.0,
+        179.0
+      ],
+      "area": 34905.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        460.0,
+        379.0
+      ],
+      "area": 174340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        444.0,
+        332.0
+      ],
+      "area": 147408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        234.0,
+        335.0
+      ],
+      "area": 78390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        452.0,
+        314.0
+      ],
+      "area": 141928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        103.0,
+        113.0
+      ],
+      "area": 11639.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        425.0,
+        361.0
+      ],
+      "area": 153425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        181.0,
+        187.0
+      ],
+      "area": 33847.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        327.0
+      ],
+      "area": 163500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        583.0,
+        392.0
+      ],
+      "area": 228536.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        398.0,
+        224.0
+      ],
+      "area": 89152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        237.0,
+        212.0
+      ],
+      "area": 50244.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        190.0,
+        181.0
+      ],
+      "area": 34390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        656.0,
+        422.0
+      ],
+      "area": 276832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        209.0,
+        202.0
+      ],
+      "area": 42218.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        222.0,
+        193.0
+      ],
+      "area": 42846.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "oranges"
+    }
+  ],
+  "licenses": []
+}

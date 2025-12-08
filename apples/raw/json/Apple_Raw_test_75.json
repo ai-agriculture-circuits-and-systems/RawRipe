@@ -1,0 +1,40 @@
+{
+  "info": {
+    "description": "RawRipe apples raw classification dataset",
+    "version": "1.0.0",
+    "year": 2021,
+    "contributor": "Rao Jerripothula, Koteswar and Kumar Shukla, Sarvesh and Jain, Samyak and Singh, Shudhanshu",
+    "url": "https://ieeexplore.ieee.org/document/9589215"
+  },
+  "images": [
+    {
+      "id": 1,
+      "width": 225,
+      "height": 225,
+      "file_name": "Apple_Raw_test_75.jpg",
+      "license": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        225,
+        225
+      ],
+      "area": 50625,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "apples"
+    }
+  ]
+}

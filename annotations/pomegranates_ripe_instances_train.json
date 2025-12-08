@@ -1,0 +1,1103 @@
+{
+  "info": {
+    "description": "RawRipe pomegranates ripe train split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_10.jpg",
+      "width": 500,
+      "height": 552
+    },
+    {
+      "id": 2,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_12.jpg",
+      "width": 355,
+      "height": 355
+    },
+    {
+      "id": 3,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_13.jpg",
+      "width": 866,
+      "height": 1300
+    },
+    {
+      "id": 4,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_14.jpg",
+      "width": 598,
+      "height": 403
+    },
+    {
+      "id": 5,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_16.jpg",
+      "width": 460,
+      "height": 460
+    },
+    {
+      "id": 6,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_17.jpg",
+      "width": 249,
+      "height": 202
+    },
+    {
+      "id": 7,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_18.jpg",
+      "width": 214,
+      "height": 235
+    },
+    {
+      "id": 8,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_20.jpg",
+      "width": 1600,
+      "height": 1167
+    },
+    {
+      "id": 9,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_21.jpg",
+      "width": 1024,
+      "height": 1021
+    },
+    {
+      "id": 10,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_22.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 11,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_24.jpg",
+      "width": 213,
+      "height": 236
+    },
+    {
+      "id": 12,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_25.jpg",
+      "width": 177,
+      "height": 285
+    },
+    {
+      "id": 13,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_26.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 14,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_28.jpg",
+      "width": 265,
+      "height": 190
+    },
+    {
+      "id": 15,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_29.jpg",
+      "width": 274,
+      "height": 184
+    },
+    {
+      "id": 16,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_30.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 17,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_32.jpg",
+      "width": 959,
+      "height": 1024
+    },
+    {
+      "id": 18,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_33.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 19,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_34.jpg",
+      "width": 235,
+      "height": 215
+    },
+    {
+      "id": 20,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_36.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 21,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_37.jpg",
+      "width": 217,
+      "height": 232
+    },
+    {
+      "id": 22,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_38.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 23,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_4.jpg",
+      "width": 1300,
+      "height": 1300
+    },
+    {
+      "id": 24,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_40.jpg",
+      "width": 190,
+      "height": 266
+    },
+    {
+      "id": 25,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_41.jpg",
+      "width": 213,
+      "height": 237
+    },
+    {
+      "id": 26,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_42.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 27,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_44.jpg",
+      "width": 227,
+      "height": 222
+    },
+    {
+      "id": 28,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_45.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 29,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_46.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 30,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_48.jpg",
+      "width": 300,
+      "height": 168
+    },
+    {
+      "id": 31,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_49.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 32,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_5.jpg",
+      "width": 360,
+      "height": 240
+    },
+    {
+      "id": 33,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_50.jpg",
+      "width": 214,
+      "height": 236
+    },
+    {
+      "id": 34,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_52.jpg",
+      "width": 266,
+      "height": 190
+    },
+    {
+      "id": 35,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_53.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 36,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_54.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 37,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_56.jpg",
+      "width": 266,
+      "height": 189
+    },
+    {
+      "id": 38,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_57.jpg",
+      "width": 214,
+      "height": 235
+    },
+    {
+      "id": 39,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_58.jpg",
+      "width": 271,
+      "height": 186
+    },
+    {
+      "id": 40,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_6.jpg",
+      "width": 1300,
+      "height": 1300
+    },
+    {
+      "id": 41,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_60.jpg",
+      "width": 774,
+      "height": 848
+    },
+    {
+      "id": 42,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_61.jpg",
+      "width": 4422,
+      "height": 3038
+    },
+    {
+      "id": 43,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_62.jpg",
+      "width": 250,
+      "height": 166
+    },
+    {
+      "id": 44,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_64.jpg",
+      "width": 778,
+      "height": 620
+    },
+    {
+      "id": 45,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_65.jpg",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": 46,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_66.jpg",
+      "width": 500,
+      "height": 391
+    },
+    {
+      "id": 47,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_68.jpg",
+      "width": 1382,
+      "height": 1300
+    },
+    {
+      "id": 48,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_69.jpg",
+      "width": 828,
+      "height": 589
+    },
+    {
+      "id": 49,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_70.jpg",
+      "width": 1000,
+      "height": 962
+    },
+    {
+      "id": 50,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_72.jpg",
+      "width": 1300,
+      "height": 951
+    },
+    {
+      "id": 51,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_73.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 52,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_74.jpg",
+      "width": 217,
+      "height": 232
+    },
+    {
+      "id": 53,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_76.jpg",
+      "width": 1500,
+      "height": 1101
+    },
+    {
+      "id": 54,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_77.jpg",
+      "width": 220,
+      "height": 229
+    },
+    {
+      "id": 55,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_78.jpg",
+      "width": 1300,
+      "height": 957
+    },
+    {
+      "id": 56,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_8.jpg",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": 57,
+      "file_name": "pomegranates/ripe/images/Pomengranate_Ripe_train_9.jpg",
+      "width": 500,
+      "height": 415
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        552.0
+      ],
+      "area": 276000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        355.0,
+        355.0
+      ],
+      "area": 126025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        866.0,
+        1300.0
+      ],
+      "area": 1125800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        598.0,
+        403.0
+      ],
+      "area": 240994.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        460.0,
+        460.0
+      ],
+      "area": 211600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        249.0,
+        202.0
+      ],
+      "area": 50298.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        214.0,
+        235.0
+      ],
+      "area": 50290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1600.0,
+        1167.0
+      ],
+      "area": 1867200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1024.0,
+        1021.0
+      ],
+      "area": 1045504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        213.0,
+        236.0
+      ],
+      "area": 50268.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        177.0,
+        285.0
+      ],
+      "area": 50445.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        265.0,
+        190.0
+      ],
+      "area": 50350.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        274.0,
+        184.0
+      ],
+      "area": 50416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        959.0,
+        1024.0
+      ],
+      "area": 982016.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        235.0,
+        215.0
+      ],
+      "area": 50525.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        217.0,
+        232.0
+      ],
+      "area": 50344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1300.0,
+        1300.0
+      ],
+      "area": 1690000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        190.0,
+        266.0
+      ],
+      "area": 50540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        213.0,
+        237.0
+      ],
+      "area": 50481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        227.0,
+        222.0
+      ],
+      "area": 50394.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        300.0,
+        168.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        360.0,
+        240.0
+      ],
+      "area": 86400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        214.0,
+        236.0
+      ],
+      "area": 50504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        266.0,
+        190.0
+      ],
+      "area": 50540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 37,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        266.0,
+        189.0
+      ],
+      "area": 50274.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        214.0,
+        235.0
+      ],
+      "area": 50290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        271.0,
+        186.0
+      ],
+      "area": 50406.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1300.0,
+        1300.0
+      ],
+      "area": 1690000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        774.0,
+        848.0
+      ],
+      "area": 656352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 42,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        4422.0,
+        3038.0
+      ],
+      "area": 13434036.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 43,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        250.0,
+        166.0
+      ],
+      "area": 41500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 44,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        778.0,
+        620.0
+      ],
+      "area": 482360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 45,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        800.0,
+        800.0
+      ],
+      "area": 640000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 46,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        391.0
+      ],
+      "area": 195500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 47,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1382.0,
+        1300.0
+      ],
+      "area": 1796600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 48,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        828.0,
+        589.0
+      ],
+      "area": 487692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 49,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1000.0,
+        962.0
+      ],
+      "area": 962000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 50,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1300.0,
+        951.0
+      ],
+      "area": 1236300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 51,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 52,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        217.0,
+        232.0
+      ],
+      "area": 50344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 53,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1500.0,
+        1101.0
+      ],
+      "area": 1651500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 54,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        220.0,
+        229.0
+      ],
+      "area": 50380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 55,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1300.0,
+        957.0
+      ],
+      "area": 1244100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 56,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        800.0,
+        800.0
+      ],
+      "area": 640000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 57,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        415.0
+      ],
+      "area": 207500.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "pomegranates"
+    }
+  ],
+  "licenses": []
+}

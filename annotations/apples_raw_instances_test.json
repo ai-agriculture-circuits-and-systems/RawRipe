@@ -1,0 +1,533 @@
+{
+  "info": {
+    "description": "RawRipe apples raw test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "apples/raw/images/Apple_Raw_test_103.jpg",
+      "width": 232,
+      "height": 217
+    },
+    {
+      "id": 2,
+      "file_name": "apples/raw/images/Apple_Raw_test_107.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 3,
+      "file_name": "apples/raw/images/Apple_Raw_test_11.jpg",
+      "width": 231,
+      "height": 218
+    },
+    {
+      "id": 4,
+      "file_name": "apples/raw/images/Apple_Raw_test_15.jpg",
+      "width": 337,
+      "height": 335
+    },
+    {
+      "id": 5,
+      "file_name": "apples/raw/images/Apple_Raw_test_19.jpg",
+      "width": 600,
+      "height": 566
+    },
+    {
+      "id": 6,
+      "file_name": "apples/raw/images/Apple_Raw_test_23.jpg",
+      "width": 975,
+      "height": 1300
+    },
+    {
+      "id": 7,
+      "file_name": "apples/raw/images/Apple_Raw_test_27.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 8,
+      "file_name": "apples/raw/images/Apple_Raw_test_3.jpg",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "id": 9,
+      "file_name": "apples/raw/images/Apple_Raw_test_31.jpg",
+      "width": 650,
+      "height": 433
+    },
+    {
+      "id": 10,
+      "file_name": "apples/raw/images/Apple_Raw_test_35.jpg",
+      "width": 1632,
+      "height": 1224
+    },
+    {
+      "id": 11,
+      "file_name": "apples/raw/images/Apple_Raw_test_39.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": 12,
+      "file_name": "apples/raw/images/Apple_Raw_test_43.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 13,
+      "file_name": "apples/raw/images/Apple_Raw_test_47.jpg",
+      "width": 237,
+      "height": 213
+    },
+    {
+      "id": 14,
+      "file_name": "apples/raw/images/Apple_Raw_test_51.jpg",
+      "width": 435,
+      "height": 434
+    },
+    {
+      "id": 15,
+      "file_name": "apples/raw/images/Apple_Raw_test_55.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 16,
+      "file_name": "apples/raw/images/Apple_Raw_test_59.jpg",
+      "width": 435,
+      "height": 435
+    },
+    {
+      "id": 17,
+      "file_name": "apples/raw/images/Apple_Raw_test_63.jpg",
+      "width": 639,
+      "height": 601
+    },
+    {
+      "id": 18,
+      "file_name": "apples/raw/images/Apple_Raw_test_67.jpg",
+      "width": 400,
+      "height": 309
+    },
+    {
+      "id": 19,
+      "file_name": "apples/raw/images/Apple_Raw_test_7.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 20,
+      "file_name": "apples/raw/images/Apple_Raw_test_71.jpg",
+      "width": 926,
+      "height": 1023
+    },
+    {
+      "id": 21,
+      "file_name": "apples/raw/images/Apple_Raw_test_75.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 22,
+      "file_name": "apples/raw/images/Apple_Raw_test_79.jpg",
+      "width": 650,
+      "height": 650
+    },
+    {
+      "id": 23,
+      "file_name": "apples/raw/images/Apple_Raw_test_83.jpg",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 24,
+      "file_name": "apples/raw/images/Apple_Raw_test_87.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "id": 25,
+      "file_name": "apples/raw/images/Apple_Raw_test_91.jpg",
+      "width": 600,
+      "height": 566
+    },
+    {
+      "id": 26,
+      "file_name": "apples/raw/images/Apple_Raw_test_95.jpg",
+      "width": 500,
+      "height": 384
+    },
+    {
+      "id": 27,
+      "file_name": "apples/raw/images/Apple_Raw_test_99.jpg",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        232.0,
+        217.0
+      ],
+      "area": 50344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        231.0,
+        218.0
+      ],
+      "area": 50358.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        337.0,
+        335.0
+      ],
+      "area": 112895.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        600.0,
+        566.0
+      ],
+      "area": 339600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        975.0,
+        1300.0
+      ],
+      "area": 1267500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        360.0
+      ],
+      "area": 172800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        650.0,
+        433.0
+      ],
+      "area": 281450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1632.0,
+        1224.0
+      ],
+      "area": 1997568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1024.0,
+        768.0
+      ],
+      "area": 786432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        237.0,
+        213.0
+      ],
+      "area": 50481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        435.0,
+        434.0
+      ],
+      "area": 188790.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        435.0,
+        435.0
+      ],
+      "area": 189225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        639.0,
+        601.0
+      ],
+      "area": 384039.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        400.0,
+        309.0
+      ],
+      "area": 123600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        926.0,
+        1023.0
+      ],
+      "area": 947298.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        650.0,
+        650.0
+      ],
+      "area": 422500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1200.0,
+        900.0
+      ],
+      "area": 1080000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1440.0,
+        1080.0
+      ],
+      "area": 1555200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        600.0,
+        566.0
+      ],
+      "area": 339600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        384.0
+      ],
+      "area": 192000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "raw",
+      "supercategory": "apples"
+    }
+  ],
+  "licenses": []
+}

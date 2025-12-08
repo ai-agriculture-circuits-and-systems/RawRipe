@@ -1,0 +1,495 @@
+{
+  "info": {
+    "description": "RawRipe papayas ripe test split",
+    "url": "https://ieeexplore.ieee.org/document/9589215",
+    "version": "1.0.0",
+    "year": 2021
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_103.jpg",
+      "width": 183,
+      "height": 275
+    },
+    {
+      "id": 2,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_11.jpg",
+      "width": 210,
+      "height": 201
+    },
+    {
+      "id": 3,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_15.jpg",
+      "width": 273,
+      "height": 185
+    },
+    {
+      "id": 4,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_19.jpg",
+      "width": 183,
+      "height": 275
+    },
+    {
+      "id": 5,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_27.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 6,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_3.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 7,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_31.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 8,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_35.jpg",
+      "width": 276,
+      "height": 182
+    },
+    {
+      "id": 9,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_39.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 10,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_43.jpg",
+      "width": 224,
+      "height": 225
+    },
+    {
+      "id": 11,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_47.jpg",
+      "width": 271,
+      "height": 186
+    },
+    {
+      "id": 12,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_51.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 13,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_55.jpg",
+      "width": 183,
+      "height": 275
+    },
+    {
+      "id": 14,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_59.jpg",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "id": 15,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_63.jpg",
+      "width": 260,
+      "height": 194
+    },
+    {
+      "id": 16,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_67.jpg",
+      "width": 191,
+      "height": 264
+    },
+    {
+      "id": 17,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_7.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 18,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_71.jpg",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "id": 19,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_75.jpg",
+      "width": 279,
+      "height": 180
+    },
+    {
+      "id": 20,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_79.jpg",
+      "width": 184,
+      "height": 275
+    },
+    {
+      "id": 21,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_83.jpg",
+      "width": 246,
+      "height": 205
+    },
+    {
+      "id": 22,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_87.jpg",
+      "width": 318,
+      "height": 158
+    },
+    {
+      "id": 23,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_91.jpg",
+      "width": 179,
+      "height": 282
+    },
+    {
+      "id": 24,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_95.jpg",
+      "width": 639,
+      "height": 396
+    },
+    {
+      "id": 25,
+      "file_name": "papayas/ripe/images/Papaya_Ripe_test_99.jpg",
+      "width": 323,
+      "height": 156
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        183.0,
+        275.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        210.0,
+        201.0
+      ],
+      "area": 42210.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        273.0,
+        185.0
+      ],
+      "area": 50505.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        183.0,
+        275.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        259.0,
+        194.0
+      ],
+      "area": 50246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        276.0,
+        182.0
+      ],
+      "area": 50232.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        224.0,
+        225.0
+      ],
+      "area": 50400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        271.0,
+        186.0
+      ],
+      "area": 50406.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        183.0,
+        275.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        225.0,
+        225.0
+      ],
+      "area": 50625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        260.0,
+        194.0
+      ],
+      "area": 50440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        191.0,
+        264.0
+      ],
+      "area": 50424.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        275.0,
+        183.0
+      ],
+      "area": 50325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        279.0,
+        180.0
+      ],
+      "area": 50220.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        184.0,
+        275.0
+      ],
+      "area": 50600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        246.0,
+        205.0
+      ],
+      "area": 50430.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        318.0,
+        158.0
+      ],
+      "area": 50244.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        179.0,
+        282.0
+      ],
+      "area": 50478.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        639.0,
+        396.0
+      ],
+      "area": 253044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        323.0,
+        156.0
+      ],
+      "area": 50388.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ripe",
+      "supercategory": "papayas"
+    }
+  ],
+  "licenses": []
+}
