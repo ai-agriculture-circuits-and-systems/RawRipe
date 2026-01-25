@@ -1,46 +1,69 @@
 # RawRipe Dataset
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#changelog)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?logo=semver&logoColor=white)](https://github.com/your-repo/RawRipe)
+[![GitHub stars](https://img.shields.io/github/stars/your-repo/RawRipe?style=flat&logo=github&label=Stars&color=orange&labelColor=orange&logoColor=white)](https://github.com/your-repo/RawRipe)
+[![GitHub forks](https://img.shields.io/github/forks/your-repo/RawRipe?style=flat&logo=github&label=Forks&color=yellow&labelColor=yellow&logoColor=white)](https://github.com/your-repo/RawRipe)
+[![GitHub watchers](https://img.shields.io/github/watchers/your-repo/RawRipe?style=flat&logo=github&label=Watchers&color=cyan&labelColor=cyan&logoColor=white)](https://github.com/your-repo/RawRipe)
+[![GitHub issues](https://img.shields.io/github/issues/your-repo/RawRipe?style=flat&logo=github&label=Issues&color=red&labelColor=red&logoColor=white)](https://github.com/your-repo/RawRipe/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo/RawRipe?style=flat&logo=github&label=PRs&color=lime&labelColor=lime&logoColor=white)](https://github.com/your-repo/RawRipe/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/your-repo/RawRipe?style=flat&logo=github&label=Contributors&color=purple&labelColor=purple&logoColor=white)](https://github.com/your-repo/RawRipe/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/RawRipe?style=flat&logo=github&label=Last%20Commit&color=gray&labelColor=gray&logoColor=white)](https://github.com/your-repo/RawRipe/commits)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.xxxxx-indigo?logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.xxxxx)
 
 A comprehensive dataset of fruit images in both raw and ripe states, designed for fruit maturity recognition tasks. The dataset includes images of 10 different fruit types, enabling various classification approaches from agricultural, market, and automation perspectives.
 
-- Project page: `https://ieeexplore.ieee.org/document/9589215`
-- Paper: `docs/Fruit_Maturity_Recognition_from_Agricultural_Market_and_Automation_Perspectives.pdf`
+- **Project page**: `https://ieeexplore.ieee.org/document/9589215`
+- **Original paper**: `https://ieeexplore.ieee.org/document/9589215`
+- **Dataset repository**: `https://ieeexplore.ieee.org/document/9589215`
 
 ## TL;DR
-- Task: classification (with detection annotations)
-- Modality: RGB 
-- Platform: ground
-- Real/Synthetic: real
-- Images: 1,630 across 10 fruit types and 2 maturity states (raw/ripe)
-- Resolution: variable (original images)
-- Annotations: per-image CSV and JSON (COCO-style, full-image bounding boxes); COCO format available
-- License: CC BY 4.0 (see License)
-- Citation: see below
 
-## Table of contents
+- **Task**: Classification
+- **Modality**: RGB
+- **Platform**: Ground
+- **Real/Synthetic**: Real
+- **Images**: 1,630 labeled images
+- **Classes**: 10 fruit types × 2 maturity states = 20 categories
+  - **Apples**: raw (105), ripe (108)
+  - **Bananas**: raw (84), ripe (115)
+  - **Coconuts**: raw (72), ripe (78)
+  - **Guavas**: raw (61), ripe (76)
+  - **Litchis**: raw (50), ripe (74)
+  - **Mangoes**: raw (97), ripe (62)
+  - **Oranges**: raw (65), ripe (72)
+  - **Papayas**: raw (69), ripe (102)
+  - **Pomegranates**: raw (78), ripe (76)
+  - **Strawberries**: raw (86), ripe (100)
+- **Resolution**: Variable (original images)
+- **Annotations**: COCO JSON (image-level via full-image boxes)
+- **Total annotations**: 1,630 (one per image for classification)
+- **License**: CC BY 4.0 (see LICENSE)
+- **Citation**: See below
+
+## Table of Contents
 - [Download](#download)
-- [Dataset structure](#dataset-structure)
-- [Sample images](#sample-images)
-- [Annotation schema](#annotation-schema)
-- [Stats and splits](#stats-and-splits)
-- [Quick start](#quick-start)
+- [Dataset Structure](#dataset-structure)
+- [Sample Images](#sample-images)
+- [Annotation Schema](#annotation-schema)
+- [Stats and Splits](#stats-and-splits)
+- [Quick Start](#quick-start)
 - [Applications](#applications)
-- [Evaluation and baselines](#evaluation-and-baselines)
-- [Datasheet (data card)](#datasheet-data-card)
-- [Known issues and caveats](#known-issues-and-caveats)
+- [Evaluation and Baselines](#evaluation-and-baselines)
+- [Datasheet (Data Card)](#datasheet-data-card)
+- [Known Issues and Caveats](#known-issues-and-caveats)
 - [License](#license)
 - [Citation](#citation)
 - [Changelog](#changelog)
 - [Contact](#contact)
 
 ## Download
-- Original dataset: Available through IEEE Xplore (see paper link)
-- This repo hosts structure and conversion scripts only; place the downloaded folders under this directory.
-- Local license file: see `LICENSE` (Creative Commons Attribution 4.0 International).
 
-## Dataset structure
+- **Original dataset**: Available through IEEE Xplore (see paper link)
+- **This repository**: Hosts structure and conversion scripts only; place the downloaded folders under this directory.
+- **Local license file**: See `LICENSE` (CC BY 4.0).
+
+## Dataset Structure
 ```
 RawRipe/
 ├── apples/                      # Apple fruit category
@@ -92,7 +115,7 @@ RawRipe/
 - Fruit categories: apples, bananas, coconuts, guavas, litchis, mangoes, oranges, papayas, pomegranates, strawberries (10 total)
 - Maturity states: raw, ripe (2 states per fruit)
 
-## Sample images
+## Sample Images
 
 Below are example images from this dataset. Paths are relative to this README location.
 
@@ -145,11 +168,13 @@ Below are example images from this dataset. Paths are relative to this README lo
   </tr>
 </table>
 
-## Annotation schema
-- CSV per-image schemas (stored under each fruit/state's `csv/` folder):
+## Annotation Schema
+
+- **CSV per-image schema** (stored under `{fruit}/{state}/csv/` folder):
   - Format: `image_path, x_min, y_min, x_max, y_max, class_name`
   - Full-image bounding boxes: `(0, 0, width, height)` for classification compatibility
-- JSON per-image schemas (stored under each fruit/state's `json/` folder):
+  
+- **JSON per-image format** (stored under `{fruit}/{state}/json/` folder):
 ```json
 {
   "info": {
@@ -181,7 +206,7 @@ Below are example images from this dataset. Paths are relative to this README lo
   }]
 }
 ```
-- COCO-style (generated):
+- **COCO-style** (generated):
 ```json
 {
   "info": {"year": 2021, "version": "1.0.0", "description": "RawRipe {fruit} {state} {split}", "url": "https://ieeexplore.ieee.org/document/9589215"},
@@ -191,9 +216,9 @@ Below are example images from this dataset. Paths are relative to this README lo
 }
 ```
 
-- Label maps: each fruit/state folder includes a `labelmap.json` mapping category IDs to names.
+- **Label maps**: Each fruit/state folder includes a `labelmap.json` mapping category IDs to names.
 
-## Stats and splits
+## Stats and Splits
 
 ### Overall Statistics
 - **Total Images**: 1,630
@@ -223,29 +248,62 @@ Below are example images from this dataset. Paths are relative to this README lo
 - Splits are provided via `{fruit}/{state}/sets/train.txt` and `{fruit}/{state}/sets/test.txt`
 - Note: Original dataset only provides train/test splits; no validation set is provided. The `val.txt` files are empty.
 
-## Quick start
+## Quick Start
 
-### Python (COCO):
+### Using COCO API
+
 ```python
 from pycocotools.coco import COCO
-coco = COCO("annotations/apples_raw_instances_train.json")
+import json
+
+# Load COCO annotations
+coco = COCO('annotations/apples_raw_instances_train.json')
+
+# Get all image IDs
 img_ids = coco.getImgIds()
-img = coco.loadImgs(img_ids[0])[0]
-ann_ids = coco.getAnnIds(imgIds=img['id'])
+print(f"Total images: {len(img_ids)}")
+
+# Get all category IDs
+cat_ids = coco.getCatIds()
+categories = [coco.loadCats([id])[0]['name'] for id in cat_ids]
+print(f"Categories: {categories}")
+
+# Load a specific image and its annotations
+img_id = img_ids[0]
+img_info = coco.loadImgs([img_id])[0]
+ann_ids = coco.getAnnIds(imgIds=[img_id])
 anns = coco.loadAnns(ann_ids)
+
+print(f"Image: {img_info['file_name']}")
+print(f"Size: {img_info['width']}x{img_info['height']}")
+print(f"Annotations: {len(anns)}")
 ```
 
-### Convert CSV to COCO JSON:
+### Converting to COCO format
+
+If you need to regenerate COCO annotations from CSV files:
+
 ```bash
 python scripts/convert_to_coco.py --root . --out annotations --splits train test
 ```
 
-### Standardize Dataset:
+### Standardizing Dataset
+
+To reorganize the dataset to the standardized structure:
+
 ```bash
 python scripts/standardize.py
 ```
 
-### Dependencies:
+### Dependencies
+
+**Required**:
+- `Pillow>=9.5` (for image processing)
+
+**Optional**:
+- `pycocotools>=2.0.7` (for COCO API)
+
+Install with:
 ```bash
 pip install -r requirements.txt
 ```
@@ -266,51 +324,49 @@ This dataset can be used to solve three types of classification problems:
    - Multi-class classification: Classify both fruit type and maturity state
    - Example: 20 classes (10 fruits × 2 states)
 
-## Evaluation and baselines
+## Evaluation and Baselines
 
-- **Task**: Classification (fruit maturity recognition)
-- **Metrics**: Accuracy, Precision, Recall, F1-Score
-- **Reference Performance** (from original paper): See paper for baseline results
-- **Note**: The original paper presents results for all three classification perspectives mentioned above
+- **Primary metric**: 
+  - Classification: Accuracy, Precision, Recall, F1-score (per class and macro-averaged)
+- **Baseline results**: See original paper for baseline results (all three classification perspectives: agricultural, market, and automation)
 
-## Datasheet (data card)
+## Datasheet (Data Card)
 
 ### Motivation
-- **For**: Fruit maturity recognition from agricultural, market, and automation perspectives
-- **Existing Solutions**: Manual inspection, traditional computer vision methods
-- **Impact**: Automated fruit sorting, quality control in agricultural markets, robotic harvesting
+
+This dataset was created to support research in fruit maturity recognition from agricultural, market, and automation perspectives, which is crucial for automated fruit sorting, quality control in agricultural markets, and robotic harvesting applications.
 
 ### Composition
-- **Instances**: 1,630 images across 10 fruit types and 2 maturity states
-- **Collection Process**: Images collected from search engines and agricultural sources
-- **Preprocessing**: Images standardized to consistent format; full-image bounding boxes added for detection framework compatibility
+
+The dataset consists of:
+- **Image types**: RGB images of fruits in raw and ripe states
+- **Categories**: 10 fruit types (apples, bananas, coconuts, guavas, litchis, mangoes, oranges, papayas, pomegranates, strawberries) with 2 maturity states each (raw, ripe)
+- **Annotation format**: Image-level classification annotations (via full-image bounding boxes)
 
 ### Collection Process
-- **Timeframe**: 2021
-- **Sources**: Search engines, agricultural databases
-- **Collection Method**: Web scraping and manual curation
 
-### Preprocessing/cleaning/labeling
-- **Labeling**: Manual annotation of fruit type and maturity state
-- **Quality Control**: Images verified for correct fruit type and maturity state
-- **Standardization**: Reorganized into standardized structure with consistent naming conventions
+- **Source**: Images collected from search engines and agricultural sources
+- **Annotation tool**: Manual annotation of fruit type and maturity state
+- **Validation**: Images verified for correct fruit type and maturity state
 
-### Uses
-- **Primary**: Fruit maturity classification
-- **Secondary**: Transfer learning, agricultural automation research
-- **Out-of-scope**: Object detection (no instance-level annotations), segmentation
+### Preprocessing
+
+- Images standardized to consistent format
+- Full-image bounding boxes added for detection framework compatibility
+- Dataset reorganized into standardized structure with consistent naming conventions
 
 ### Distribution
-- **License**: CC BY 4.0
-- **Hosting**: IEEE Xplore (original), this repository (standardized version)
-- **Maintenance**: Community-maintained
+
+- Dataset is distributed under CC BY 4.0 license
+- Original data available through IEEE Xplore
+- This repository provides standardized structure and conversion scripts
 
 ### Maintenance
-- **Who**: Dataset creators and community contributors
-- **Update Frequency**: As needed
-- **Versioning**: See Changelog section
 
-## Known issues and caveats
+- Dataset structure has been standardized according to the dataset structure specification
+- COCO format annotations are generated from CSV files using the provided conversion script
+
+## Known Issues and Caveats
 
 1. **No Validation Set**: The original dataset only provides train/test splits. Users may need to split the training set further to create a validation set.
 2. **Image Size Variation**: Images have variable resolutions (not standardized to a fixed size).
@@ -320,13 +376,11 @@ This dataset can be used to solve three types of classification problems:
 
 ## License
 
-This dataset is licensed under the **Creative Commons Attribution 4.0 International Public License (CC BY 4.0)**.
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-See `LICENSE` file for the full license text.
+Check the original dataset terms and cite appropriately.
 
-**Attribution Requirements:**
-- When using this dataset, please cite the original paper (see Citation section)
-- Include attribution to the dataset creators: Rao Jerripothula, Koteswar; Kumar Shukla, Sarvesh; Jain, Samyak; Singh, Shudhanshu
+See `LICENSE` file for full license text.
 
 ## Citation
 
@@ -347,21 +401,10 @@ If you use this dataset in your research, please cite:
 
 ## Changelog
 
-### Version 1.0.0 (2024-12-08)
-- Initial standardization of RawRipe dataset
-- Reorganized data into standardized structure (`{fruit}/{state}/` format)
-- Generated per-image CSV and JSON annotations with full-image bounding boxes
-- Created dataset splits (train/test) for each fruit/state combination
-- Generated COCO format annotations for all subcategories and splits
-- Updated README.md with comprehensive documentation
-- Added LICENSE file (CC BY 4.0)
-- Created requirements.txt
-- Moved original data to `data/original/` for backup
+- **V1.0.0** (2025): Initial standardized structure and COCO conversion utility
 
 ## Contact
 
-For questions or issues related to this standardized dataset:
-- **Original Dataset Authors**: See paper for contact information
-- **Standardization**: This standardized version is maintained by the community
-
-For questions about the original dataset, please refer to the original paper or IEEE Xplore.
+- **Maintainers**: Open to contributions via issue tracker
+- **Original authors**: Rao Jerripothula, Koteswar; Kumar Shukla, Sarvesh; Jain, Samyak; Singh, Shudhanshu
+- **Source**: `https://ieeexplore.ieee.org/document/9589215`
